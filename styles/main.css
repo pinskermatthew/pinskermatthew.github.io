@@ -336,7 +336,7 @@ img {
 .external-link[target="_blank"]::after {
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
-    content: " \f35d";
+    content: " \f35d"; /*external-link-alt icon*/
     margin-left: 0.1rem;
 }
 
