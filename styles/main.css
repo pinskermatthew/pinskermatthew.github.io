@@ -35,7 +35,7 @@ body {
   	min-height: 100vh;
 }
 
- ol, 
+ ol,
  ul {
  	margin: 0;
  	padding: 0;
@@ -275,7 +275,7 @@ img {
 }
 
 .card-title {
-	letter-spacing: 0.5px;	
+	letter-spacing: 0.5px;
 }
 
 .card-tools strong {
@@ -378,7 +378,7 @@ img {
 	color: #000000;
 	padding: 15px 0;
 	font-weight: 400;
-  
+
 	/* Position the tooltip */
 	position: absolute;
 	z-index: 1;
@@ -391,7 +391,7 @@ img {
 	/* Position the return to top tooltip */
 	transform: rotate(90deg);
 	top: 0%;
-	margin-left: -120px;	
+	margin-left: -120px;
 }
 
 .tooltip:hover .tooltiptext {
